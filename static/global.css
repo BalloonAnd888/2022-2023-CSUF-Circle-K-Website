@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+/*font-family: 'Open Sans', sans-serif;*/
+
+:root {
+    --bgcolor: #7d7774;
+    --linebreak: #c1b042;
+    --textcolor: white;
+    --headingcolor: white;
+
+    --size-xxl: clamp(2.8125rem, 1.8403rem + 5.5556vw, 5.3125rem);
+    --size-xl: clamp(2rem, 1.7545rem + 1.0909vw, 3.5rem);
+    --size-lg: clamp(1.5rem, 1.3773rem + 0.5455vw, 2.25rem);
+    --size-md: clamp(1.125rem, 1.0636rem + 0.2727vw, 1.5rem);
+    --size-sm: clamp(1rem, 0.9795rem + 0.0909vw, 1.125rem);
+    --size-xs: clamp(0.75rem, 0.7295rem + 0.0909vw, 0.875rem);
+}
+
+*, html, body, #svelte {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body, #svelte {
+    font-family: 'Barlow', sans-serif;
+}
+
+html {
+    height: 100%;;
+}
+
+body {
+    background-color: var(--bgcolor);
+}
+
+.paintingcolor {
+    background-color: #f0f0d8;
+}
+
+.size-xxl {
+    font-size: var(--size-xxl);
+}
+    
+.size-xl {
+    font-size: var(--size-xl);
+}
+    
+.size-lg {
+    font-size: var(--size-lg);
+}
+
+.size-md {
+    font-size: var(--size-md);
+}
+
+.size-sm {
+    font-size: var(--size-sm);
+}
+
+.size-xs {
+    font-size: var(--size-xs);
+}
