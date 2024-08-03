@@ -1,59 +1,21 @@
 <script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	import Welcome from '$lib/components/home/welcome.svelte';
+	import CallToAction from '$lib/components/home/calltoaction.svelte';
+	import Announcement from '$lib/components/home/announcement.svelte';
+	import Event from '$lib/components/home/event.svelte';
+	import Hour from '$lib/components/home/hour.svelte';
+	import Fund from '$lib/components/home/funds.svelte';
+	import Member from '$lib/components/home/member.svelte';
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Circle K International at Cal State Fullerton</title>
 </svelte:head>
 
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
-
-		to your new<br />SvelteKit app
-	</h1>
-
-	<h2 class="text-3xl">
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
-	<Counter />
-</section>
-
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+<Welcome />
+<!-- <CallToAction />
+<Announcement />
+<Event />
+<Hour />
+<Fund />
+<Member /> -->
