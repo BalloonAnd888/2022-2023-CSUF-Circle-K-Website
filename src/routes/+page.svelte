@@ -13,9 +13,9 @@
 </svelte:head>
 
 <Welcome />
-<!-- <CallToAction />
+<CallToAction />
 <Announcement />
 <Event />
 <Hour />
 <Fund />
-<Member /> -->
+<Member />
