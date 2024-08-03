@@ -25,7 +25,7 @@
     </div> -->
 
 	<div class="mask flex justify-center">
-		<img class="maskhead" src="src/lib/images/White White Masthead.png" alt="Maskhead" />
+		<img class="maskhead" src="/White White Masthead.png" alt="Maskhead" />
 	</div>
 </footer>
 

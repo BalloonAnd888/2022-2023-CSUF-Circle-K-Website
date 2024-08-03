@@ -21,7 +21,7 @@
 		<div class="px-5">
 			<img
 				class="frame m-auto lg:hover:scale-110 transition duration-300 ease-in-out"
-				src="src/lib/images/mom/brian_zee.jpg"
+				src="mom/brian_zee.jpg"
 				alt="member_of_the_month"
 			/>
 		</div>

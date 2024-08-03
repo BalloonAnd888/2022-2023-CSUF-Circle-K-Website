@@ -13,7 +13,7 @@
 	<div class="px-4 m-auto animate__animated animate__fadeIn animate__delay-2s animate__slow">
 		<img
 			class="picture lg:hover:scale-110 transition duration-300 ease-in-out"
-			src="src/lib/images/home/CSUFFTC.jpg"
+			src="home/CSUFFTC.jpg"
 			alt="FTC2021"
 		/>
 	</div>

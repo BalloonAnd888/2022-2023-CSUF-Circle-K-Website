@@ -2,25 +2,25 @@
 	import { Carousel } from 'flowbite-svelte';
 	import LineBreak from '$lib/components/Linebreak.svelte';
 	const images = [
-		{ alt: 'NMI', src: 'src/lib/images/home/thegalleryslatest/NMI.png', description: '' },
+		{ alt: 'NMI', src: 'home/thegalleryslatest/NMI.png', description: '' },
 		{
 			alt: 'OpenMicNight',
-			src: 'src/lib/images/home/thegalleryslatest/OpenMicNight.jpg',
+			src: 'home/thegalleryslatest/OpenMicNight.jpg',
 			description: ''
 		},
 		{
 			alt: '3-2-1-Draw',
-			src: 'src/lib/images/home/thegalleryslatest/3-2-1-Draw!!!.jpg',
+			src: 'home/thegalleryslatest/3-2-1-Draw!!!.jpg',
 			description: ''
 		},
 		{
 			alt: 'Snowcial',
-			src: 'src/lib/images/home/thegalleryslatest/CSUFSnowcial.gif',
+			src: 'home/thegalleryslatest/CSUFSnowcial.gif',
 			description: ''
 		},
 		{
 			alt: 'CSUF7thSGM',
-			src: 'src/lib/images/home/thegalleryslatest/CSUF7thSGM.jpg',
+			src: 'home/thegalleryslatest/CSUF7thSGM.jpg',
 			description: ''
 		}
 	];

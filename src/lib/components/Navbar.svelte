@@ -407,7 +407,7 @@
 <nav>
 	<div id="logo">
 		<a href="/" on:click={() => handleClose()}>
-			<img src="src/lib/images/circlek_white.png" class="icon" alt="CSUFCKILogo" />
+			<img src="/circlek_white.png" class="icon" alt="CSUFCKILogo" />
 		</a>
 	</div>
 
