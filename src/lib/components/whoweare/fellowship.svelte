@@ -8,17 +8,17 @@
 	const images = [
 		{
 			alt: 'Fall Retreat 2021',
-			src: 'src/lib/images/whoweare/fellowship/FallRetreat2021.jpg',
+			src: 'whoweare/fellowship/FallRetreat2021.jpg',
 			description: 'Fall Retreat 2021'
 		},
 		{
 			alt: 'New Member Installation 2019',
-			src: 'src/lib/images/whoweare/fellowship/NMI2019.jpg',
+			src: 'whoweare/fellowship/NMI2019.jpg',
 			description: 'New Member Installation 2019'
 		},
 		{
 			alt: 'Snowcial 2020',
-			src: 'src/lib/images/whoweare/fellowship/Snowcial2020.jpg',
+			src: 'whoweare/fellowship/Snowcial2020.jpg',
 			description: 'Snowcial 2020'
 		}
 	];

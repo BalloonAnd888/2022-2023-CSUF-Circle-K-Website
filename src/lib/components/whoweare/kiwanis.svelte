@@ -16,7 +16,7 @@
 				The Kiwanis Club of Fullerton sponsors Circle K International at Cal State Fullerton
 			</p>
 
-			<img src="src/lib/images/whoweare/otherlogos/kiwanis_color.png" alt="kiwanis" class="logo" />
+			<img src="whoweare/otherlogos/kiwanis_color.png" alt="kiwanis" class="logo" />
 		</div>
 	</div>
 </div>

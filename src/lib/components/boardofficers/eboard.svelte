@@ -7,7 +7,7 @@
 		<div class="first-row">
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/megan.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/megan.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Megan Nguyen</h5>
@@ -19,7 +19,7 @@
 
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/kristina.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/kristina.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">
@@ -35,7 +35,7 @@
 
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/james.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/james.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">
@@ -51,7 +51,7 @@
 		<div class="second-row">
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/jungsuk.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/jungsuk.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Jungsuk Ryow</h5>
@@ -63,7 +63,7 @@
 
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/elizabeth.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/elizabeth.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">

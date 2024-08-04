@@ -7,27 +7,15 @@
 	</p>
 	<div class="flex">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/media/brandon_la.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/media/brandon_la.jpg" alt="" />
 			<p>Media Chair - Brandon La</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/media/joshua_de_leon.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/media/joshua_de_leon.jpg" alt="" />
 			<p>Production & Media Assistant - Joshua De Leon</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/media/marc_shin.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/media/marc_shin.jpg" alt="" />
 			<p>Production & Media Assistant - Marc Shin</p>
 		</div>
 	</div>

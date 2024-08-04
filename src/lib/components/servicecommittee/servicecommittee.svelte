@@ -9,27 +9,15 @@
 	</p>
 	<div class="flex">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/service/james_balancio.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/service/james_balancio.jpg" alt="" />
 			<p>Service Chair - James Balancio</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/service/bryan_montor.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/service/bryan_montor.jpg" alt="" />
 			<p>Executive Assistant - Bryan Montor</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/service/mandy_brucato.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/service/mandy_brucato.jpg" alt="" />
 			<p>Logistical Assistant - Mandy Brucato</p>
 		</div>
 	</div>

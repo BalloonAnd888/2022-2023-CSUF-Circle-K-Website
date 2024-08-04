@@ -98,17 +98,17 @@
 
 	/*Large Tablet and Laptop*/
 	@media screen and (min-width: 960px) {
-		.gallery {
+		/* .gallery {
 			padding-left: 150px;
 			padding-right: 150px;
-		}
+		} */
 	}
 
 	/*Desktop*/
 	@media screen and (min-width: 1200px) {
-		.gallery {
+		/* .gallery {
 			padding-left: 300px;
 			padding-right: 300px;
-		}
+		} */
 	}
 </style>

@@ -6,27 +6,15 @@
 	</p>
 	<div class="flex">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/technology/andrew_lau.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/technology/andrew_lau.jpg" alt="" />
 			<p>Technology Chair - Andrew Lau</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/technology/brian_zee.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/technology/brian_zee.jpg" alt="" />
 			<p>Software Developer - Brian Zee</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/technology/alahide_perez.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/technology/alahide_perez.jpg" alt="" />
 			<p>Software Developer - Alahide Perez de Jesus</p>
 		</div>
 	</div>

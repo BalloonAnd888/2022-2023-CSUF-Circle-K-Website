@@ -13,7 +13,7 @@
 
 	<div class="animate__animated animate__fadeInLeft pt-4">
 		<img
-			src="src/lib/images/leadership/ftc/ftc2021.jpg"
+			src="leadership/ftc/ftc2021.jpg"
 			class="frame shadow w-[500px] mb-4 mx-auto lg:hover:scale-110 transition duration-300 ease-in-out"
 			alt="ftc2021"
 		/>

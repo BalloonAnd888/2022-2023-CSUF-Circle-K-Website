@@ -7,17 +7,17 @@
 	const images = [
 		{
 			alt: 'Kaboom 2022',
-			src: 'src/lib/images/service/Kaboom2022.jpg',
+			src: 'service/Kaboom2022.jpg',
 			description: 'Kaboom 2022'
 		},
 		{
 			alt: 'El Modena 2020',
-			src: 'src/lib/images/service/ElMo2020.jpg',
+			src: 'service/ElMo2020.jpg',
 			description: 'El Modena 2020'
 		},
 		{
 			alt: 'DLSSP 2020',
-			src: 'src/lib/images/service/DLSSP2020.jpg',
+			src: 'service/DLSSP2020.jpg',
 			description: 'DLSSP 2020'
 		}
 	];

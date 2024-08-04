@@ -8,17 +8,17 @@
 	const images = [
 		{
 			alt: 'Discoverfest Spring 2020',
-			src: 'src/lib/images/whoweare/leadership/DfestSp2020.jpg',
+			src: 'whoweare/leadership/DfestSp2020.jpg',
 			description: 'Discoverfest Spring 2020'
 		},
 		{
 			alt: 'Family Head 2019',
-			src: 'src/lib/images/whoweare/leadership/Famhead19.jpg',
+			src: 'whoweare/leadership/Famhead19.jpg',
 			description: 'Family Head 2019'
 		},
 		{
 			alt: 'District Convention 2022',
-			src: 'src/lib/images/whoweare/leadership/DCON22.jpg',
+			src: 'whoweare/leadership/DCON22.jpg',
 			description: 'District Convention 2022'
 		}
 	];

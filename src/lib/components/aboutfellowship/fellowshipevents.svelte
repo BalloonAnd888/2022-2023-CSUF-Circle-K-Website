@@ -7,12 +7,12 @@
 	const images = [
 		{
 			alt: 'Snowcial 2020',
-			src: 'src/lib/images/fellowship/snowcial.jpg',
+			src: 'fellowship/snowcial.jpg',
 			description: 'Snowcial 2020'
 		},
 		{
 			alt: 'Family Competition',
-			src: 'src/lib/images/fellowship/familycomp.jpg',
+			src: 'fellowship/familycomp.jpg',
 			description: 'Family Competition'
 		}
 	];

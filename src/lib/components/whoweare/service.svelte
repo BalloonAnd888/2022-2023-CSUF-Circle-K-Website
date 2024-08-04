@@ -8,17 +8,17 @@
 	const images = [
 		{
 			alt: 'Light The Night',
-			src: 'src/lib/images/whoweare/service/LightTheNight.jpg',
+			src: 'whoweare/service/LightTheNight.jpg',
 			description: 'Light The Night'
 		},
 		{
 			alt: 'El Modena',
-			src: 'src/lib/images/whoweare/service/ElMo.jpg',
+			src: 'whoweare/service/ElMo.jpg',
 			description: 'El Modena'
 		},
 		{
 			alt: '24 Hour Service Marathon',
-			src: 'src/lib/images/whoweare/service/24hrService.jpg',
+			src: 'whoweare/service/24hrService.jpg',
 			description: '24 Hour Service Marathon'
 		}
 	];

@@ -5,7 +5,7 @@
 		<div class="first-row">
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/alexis.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/alexis.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">
@@ -19,7 +19,7 @@
 
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/brandon.jpg" class="mx-auto w-80 h-auto" alt="Avatar" />
+					<img src="board/brandon.jpg" class="mx-auto w-80 h-auto" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Brandon La</h5>
@@ -31,7 +31,7 @@
 
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/ben.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/ben.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">
@@ -47,7 +47,7 @@
 		<div class="second-row">
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/kat.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/kat.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Kat Lu</h5>
@@ -59,7 +59,7 @@
 
 			<div class="flex justify-center p-8">
 				<div class="shadow-lg bg-white max-w-sm">
-					<img src="src/lib/images/board/andrew.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="board/andrew.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Andrew Lau</h5>

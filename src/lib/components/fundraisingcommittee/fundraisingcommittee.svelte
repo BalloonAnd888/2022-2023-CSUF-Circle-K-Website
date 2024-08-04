@@ -10,7 +10,7 @@
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
 			<img
 				class="frame shadow"
-				src="../src/lib/images/leadership/committee/fundraising/alexis_abucejo.jpg"
+				src="../leadership/committee/fundraising/alexis_abucejo.jpg"
 				alt=""
 			/>
 			<p>Fundraising Chair - Alexis Abucejo</p>
@@ -18,33 +18,25 @@
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
 			<img
 				class="frame shadow"
-				src="../src/lib/images/leadership/committee/fundraising/alahide_perez.jpg"
+				src="../leadership/committee/fundraising/alahide_perez.jpg"
 				alt=""
 			/>
 			<p>Logistical Assistant - Alahide Perez de Jesus</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/fundraising/bryan_montor.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/fundraising/bryan_montor.jpg" alt="" />
 			<p>Marketing Assistant - Bryan Montor</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
 			<img
 				class="frame shadow"
-				src="../src/lib/images/leadership/committee/fundraising/angelina_moonswami.jpg"
+				src="../leadership/committee/fundraising/angelina_moonswami.jpg"
 				alt=""
 			/>
 			<p>Creative Assistant - Angelina Moonswami</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/fundraising/vivian_quach.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/fundraising/vivian_quach.jpg" alt="" />
 			<p>Creative Assistant - Vivian Quach</p>
 		</div>
 	</div>

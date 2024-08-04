@@ -8,7 +8,7 @@
 	<div class="text-center px-5 mb-5">
 		<div class="animate__animated animate__fadeInLeft">
 			<img
-				src="src/lib/images/board/kristina.jpg"
+				src="board/kristina.jpg"
 				class="frame shadow w-[500px] mb-4 mx-auto lg:hover:scale-110 transition duration-300 ease-in-out"
 				alt="kristina"
 			/>

@@ -6,27 +6,15 @@
 	</p>
 	<div class="flex">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/spirit/jungsuk_ryow.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/spirit/jungsuk_ryow.jpg" alt="" />
 			<p>Spirit Chair - Jungsuk Ryow</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/spirit/alejandro_Ibarra.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/spirit/alejandro_Ibarra.jpg" alt="" />
 			<p>Executive Assistant - Alejandro Ibarra</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/spirit/nathan_low.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/spirit/nathan_low.jpg" alt="" />
 			<p>Logistical Assistant - Nathan Low</p>
 		</div>
 	</div>

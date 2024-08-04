@@ -7,22 +7,22 @@
 	const images = [
 		{
 			alt: 'DCONHR',
-			src: 'src/lib/images/leadership/dcon/DCONHR.jpg',
+			src: 'leadership/dcon/DCONHR.jpg',
 			description: 'DCONHR'
 		},
 		{
 			alt: 'DCONPE',
-			src: 'src/lib/images/leadership/dcon/DCONPE.jpg',
+			src: 'leadership/dcon/DCONPE.jpg',
 			description: 'DCONPE'
 		},
 		{
 			alt: 'DCONSAA',
-			src: 'src/lib/images/leadership/dcon/DCONSAA.jpg',
+			src: 'leadership/dcon/DCONSAA.jpg',
 			description: 'DCONSAA'
 		},
 		{
 			alt: 'DCONTSCN',
-			src: 'src/lib/images/leadership/dcon/DCONTSCN.jpg',
+			src: 'leadership/dcon/DCONTSCN.jpg',
 			description: 'DCONTSCN'
 		}
 	];
@@ -43,7 +43,7 @@
 
 	<div class="animate__animated animate__fadeInLeft pt-4">
 		<img
-			src="src/lib/images/leadership/dcon/dcon2022.jpg"
+			src="leadership/dcon/dcon2022.jpg"
 			class="frame shadow w-[500px] mb-4 mx-auto lg:hover:scale-110 transition duration-300 ease-in-out"
 			alt="ftc2021"
 		/>

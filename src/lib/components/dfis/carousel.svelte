@@ -7,17 +7,17 @@
 	const images = [
 		{
 			alt: 'Chill and Grill 2022',
-			src: 'src/lib/images/fundraising/ChillAndGrill.jpg',
+			src: 'fundraising/ChillAndGrill.jpg',
 			description: 'Chill and Grill 2022'
 		},
 		{
 			alt: 'Casino Royale 2019',
-			src: 'src/lib/images/fundraising/CasinoRoyale.jpg',
+			src: 'fundraising/CasinoRoyale.jpg',
 			description: 'Casino Royale 2019'
 		},
 		{
 			alt: '7/10 Split 2019',
-			src: 'src/lib/images/fundraising/SevenTenSplit.jpg',
+			src: 'fundraising/SevenTenSplit.jpg',
 			description: '7/10 Split 2019'
 		}
 	];
@@ -87,8 +87,8 @@
 			padding: 0 200px 100px 200px;
 		}
 
-		img {
+		/* img {
 			height: 750px;
-		}
+		} */
 	}
 </style>

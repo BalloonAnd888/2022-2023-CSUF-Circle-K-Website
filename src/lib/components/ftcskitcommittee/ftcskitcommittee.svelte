@@ -6,19 +6,11 @@
 	</p>
 	<div class="flex">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/ftcskit/jungsuk_ryow.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/ftcskit/jungsuk_ryow.jpg" alt="" />
 			<p>FTC Skit Chair - Jungsuk Ryow</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img
-				class="frame shadow"
-				src="../src/lib/images/leadership/committee/ftcskit/brandon_tran.jpg"
-				alt=""
-			/>
+			<img class="frame shadow" src="../leadership/committee/ftcskit/brandon_tran.jpg" alt="" />
 			<p>Executive Assistant - Brandon Tran</p>
 		</div>
 	</div>

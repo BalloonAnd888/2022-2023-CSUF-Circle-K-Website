@@ -14,7 +14,7 @@
 			Citrus Division!
 		</p>
 
-		<img src="src/lib/images/whoweare/divisionlogo/logo_citrus_color.png" alt="citruslogo" />
+		<img src="whoweare/divisionlogo/logo_citrus_color.png" alt="citruslogo" />
 	</div>
 
 	<div class="paintingcolor clubbox frame shadow">

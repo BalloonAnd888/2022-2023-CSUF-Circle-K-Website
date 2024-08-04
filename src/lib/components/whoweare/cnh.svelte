@@ -15,11 +15,7 @@
 				spanning the three states, Cal-Nev-Ha serves as a shining beacon to its fellow districts.
 			</p>
 
-			<img
-				src="src/lib/images/whoweare/otherlogos/District Emblem.png"
-				class="district-logo"
-				alt="district"
-			/>
+			<img src="whoweare/otherlogos/District Emblem.png" class="district-logo" alt="district" />
 		</div>
 
 		<!--width-->
