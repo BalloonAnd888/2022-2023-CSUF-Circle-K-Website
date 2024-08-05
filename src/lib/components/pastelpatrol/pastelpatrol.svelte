@@ -3,7 +3,7 @@
 	<div class="md:grid grid-cols-2">
 		<div class="top-content animate__animated animate__fadeInLeft">
 			<img
-				src="../src/lib/images/fam/familyhead/zoeamba.jpg"
+				src="../fam/familyhead/zoeamba.jpg"
 				class="frame shadow mdsz w-[400px] mx-auto lg:hover:scale-110 transition duration-300 ease-in-out"
 				alt="angelina"
 			/>
@@ -41,87 +41,87 @@
 	<h1 style="padding: 3em 0 1em 0" class="size-xl title">Family Members</h1>
 	<div class="members">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/kat_lu.jpg" alt="" />
+			<img src="../fam/pastelmembers/kat_lu.jpg" alt="" />
 			<p>Kat Lu</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/jungsuk_ryow.jpg" alt="" />
+			<img src="../fam/pastelmembers/jungsuk_ryow.jpg" alt="" />
 			<p>Jungsuk Ryow</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/alexis_abucejo.jpg" alt="" />
+			<img src="../fam/pastelmembers/alexis_abucejo.jpg" alt="" />
 			<p>Alexis Abucejo</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/soren_kim.jpg" alt="" />
+			<img src="../fam/pastelmembers/soren_kim.jpg" alt="" />
 			<p>Soren Kim</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/alahide_perez.jpg" alt="" />
+			<img src="../fam/pastelmembers/alahide_perez.jpg" alt="" />
 			<p>Alahide Perez de Jesus</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/jaslynn_diep.jpg" alt="" />
+			<img src="../fam/pastelmembers/jaslynn_diep.jpg" alt="" />
 			<p>Jaslynn Diep</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/ryan_valenton.jpg" alt="" />
+			<img src="../fam/pastelmembers/ryan_valenton.jpg" alt="" />
 			<p>Ryan Valenton</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/kimi_matsumoto.jpg" alt="" />
+			<img src="../fam/pastelmembers/kimi_matsumoto.jpg" alt="" />
 			<p>Kimi Matsumoto</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/nathan_low.jpg" alt="" />
+			<img src="../fam/pastelmembers/nathan_low.jpg" alt="" />
 			<p>Nathan Low</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/fuyi_su.jpg" alt="" />
+			<img src="../fam/pastelmembers/fuyi_su.jpg" alt="" />
 			<p>Fuyi Su</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/alejandro_Ibarra.jpg" alt="" />
+			<img src="../fam/pastelmembers/alejandro_Ibarra.jpg" alt="" />
 			<p>Alejandro Ibarra</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/stanley_chong.jpg" alt="" />
+			<img src="../fam/pastelmembers/stanley_chong.jpg" alt="" />
 			<p>Stanley Chong</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/brandon_Ikari.jpg" alt="" />
+			<img src="../fam/pastelmembers/brandon_Ikari.jpg" alt="" />
 			<p>Brandon Ikari</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/natania_valdez.jpg" alt="" />
+			<img src="../fam/pastelmembers/natania_valdez.jpg" alt="" />
 			<p>Natania Valdez</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../src/lib/images/BlankOutline.jpg" alt="" />
+			<img src="../BlankOutline.jpg" alt="" />
 			<p>Zoey Nguyen</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/restie_tagorda.jpg" alt="" />
+			<img src="../fam/pastelmembers/restie_tagorda.jpg" alt="" />
 			<p>Restie Tagorda</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/hannah_romey.jpg" alt="" />
+			<img src="../fam/pastelmembers/hannah_romey.jpg" alt="" />
 			<p>Hannah Romey</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/samuel_lee.jpg" alt="" />
+			<img src="../fam/pastelmembers/samuel_lee.jpg" alt="" />
 			<p>Samuel Lee</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/adolfo_alan_garduno.jpg" alt="" />
+			<img src="../fam/pastelmembers/adolfo_alan_garduno.jpg" alt="" />
 			<p>Adolfo Alan Garduno</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/ruben_ledesma.jpg" alt="" />
+			<img src="../fam/pastelmembers/ruben_ledesma.jpg" alt="" />
 			<p>Ruben Ledesma</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/pastelmembers/douglas_shimizu.jpg" alt="" />
+			<img src="../fam/pastelmembers/douglas_shimizu.jpg" alt="" />
 			<p>Douglas Shimizu</p>
 		</div>
 	</div>

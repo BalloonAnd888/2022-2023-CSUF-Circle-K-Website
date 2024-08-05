@@ -7,12 +7,12 @@
 	const images = [
 		{
 			alt: 'Sass Line',
-			src: 'src/lib/images/mentorshipprogram/sassline.jpg',
+			src: 'mentorshipprogram/sassline.jpg',
 			description: 'Sass Line'
 		},
 		{
 			alt: 'Life Line',
-			src: 'src/lib/images/mentorshipprogram/lifeline.jpg',
+			src: 'mentorshipprogram/lifeline.jpg',
 			description: 'Life Line'
 		}
 	];

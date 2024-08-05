@@ -3,7 +3,7 @@
 	<div class="md:grid grid-cols-2">
 		<div class="top-content animate__animated animate__fadeInLeft">
 			<img
-				src="../src/lib/images/fam/familyhead/brandenvo.jpg"
+				src="../fam/familyhead/brandenvo.jpg"
 				class="frame shadow mdsz w-[400px] mx-auto lg:hover:scale-110 transition duration-300 ease-in-out"
 				alt="angelina"
 			/>
@@ -48,79 +48,79 @@
 	<h1 style="padding: 3em 0 1em 0" class="size-xl title">Family Members</h1>
 	<div class="members">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/benjamin_distor.jpg" alt="" />
+			<img src="../fam/brushesmembers/benjamin_distor.jpg" alt="" />
 			<p>Benjamin Distor</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/james_balancio.jpg" alt="" />
+			<img src="../fam/brushesmembers/james_balancio.jpg" alt="" />
 			<p>James Balancio</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/elizabeth_barajas.jpg" alt="" />
+			<img src="../fam/brushesmembers/elizabeth_barajas.jpg" alt="" />
 			<p>Elizabeth Barajas</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/vivian_quach.jpg" alt="" />
+			<img src="../fam/brushesmembers/vivian_quach.jpg" alt="" />
 			<p>Vivian Quach</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/brandon_tran.jpg" alt="" />
+			<img src="../fam/brushesmembers/brandon_tran.jpg" alt="" />
 			<p>Brandon Tran</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../src/lib/images/BlankOutline.jpg" alt="" />
+			<img src="../BlankOutline.jpg" alt="" />
 			<p>Britney Chow</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/mandy_brucato.jpg" alt="" />
+			<img src="../fam/brushesmembers/mandy_brucato.jpg" alt="" />
 			<p>Mandy Brucato</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/jaclyn_tu.jpg" alt="" />
+			<img src="../fam/brushesmembers/jaclyn_tu.jpg" alt="" />
 			<p>Jaclyn Tu</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/jordan_chiang.jpg" alt="" />
+			<img src="../fam/brushesmembers/jordan_chiang.jpg" alt="" />
 			<p>Jordan Chiang</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/bryan_montor.jpg" alt="" />
+			<img src="../fam/brushesmembers/bryan_montor.jpg" alt="" />
 			<p>Bryan Montor</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/marc_shin.jpg" alt="" />
+			<img src="../fam/brushesmembers/marc_shin.jpg" alt="" />
 			<p>Marc Shin</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/sandra_thach.jpg" alt="" />
+			<img src="../fam/brushesmembers/sandra_thach.jpg" alt="" />
 			<p>Sandra Thach</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../src/lib/images/BlankOutline.jpg" alt="" />
+			<img src="../BlankOutline.jpg" alt="" />
 			<p>Alexandria Garcia</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/david_li.jpg" alt="" />
+			<img src="../fam/brushesmembers/david_li.jpg" alt="" />
 			<p>David Li</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../src/lib/images/BlankOutline.jpg" alt="" />
+			<img src="../BlankOutline.jpg" alt="" />
 			<p>Abraham Asmare</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/sophia_herrera.jpg" alt="" />
+			<img src="../fam/brushesmembers/sophia_herrera.jpg" alt="" />
 			<p>Sophia Herrera</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/josephine_pham.jpg" alt="" />
+			<img src="../fam/brushesmembers/josephine_pham.jpg" alt="" />
 			<p>Josephine Pham</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/kelly_pham.jpg" alt="" />
+			<img src="../fam/brushesmembers/kelly_pham.jpg" alt="" />
 			<p>Kelly Pham</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/brushesmembers/mike_hayes.jpg" alt="" />
+			<img src="../fam/brushesmembers/mike_hayes.jpg" alt="" />
 			<p>Michael Hayes</p>
 		</div>
 	</div>

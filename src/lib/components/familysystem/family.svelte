@@ -16,11 +16,7 @@
 				class="shadow-lg bg-white max-w-sm lg:hover:scale-110 transition duration-300 ease-in-out"
 			>
 				<a href="/familysystem/sheetsofpaper">
-					<img
-						src="src/lib/images/fam/familyhead/angelinamoonswami.jpg"
-						class="mx-auto w-80"
-						alt="Avatar"
-					/>
+					<img src="fam/familyhead/angelinamoonswami.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">
@@ -37,11 +33,7 @@
 				class="shadow-lg bg-white max-w-sm lg:hover:scale-110 transition duration-300 ease-in-out"
 			>
 				<a href="/familysystem/brilliantbrushes">
-					<img
-						src="src/lib/images/fam/familyhead/brandenvo.jpg"
-						class="mx-auto w-80"
-						alt="Avatar"
-					/>
+					<img src="fam/familyhead/brandenvo.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Branden Vo</h5>
@@ -56,7 +48,7 @@
 				class="shadow-lg bg-white max-w-sm lg:hover:scale-110 transition duration-300 ease-in-out"
 			>
 				<a href="/familysystem/pastelpatrol">
-					<img src="src/lib/images/fam/familyhead/zoeamba.jpg" class="mx-auto w-80" alt="Avatar" />
+					<img src="fam/familyhead/zoeamba.jpg" class="mx-auto w-80" alt="Avatar" />
 					<div class="p-6">
 						<div class="border-2 border-gray-800">
 							<h5 class="text-gray-900 text-xl font-medium mb-2 pt-2 text-center">Zoe Amba</h5>

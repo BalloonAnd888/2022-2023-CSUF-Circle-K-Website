@@ -3,7 +3,7 @@
 	<div class="md:grid grid-cols-2">
 		<div class="top-content animate__animated animate__fadeInLeft">
 			<img
-				src="../src/lib/images/fam/familyhead/angelinamoonswami.jpg"
+				src="../fam/familyhead/angelinamoonswami.jpg"
 				class="frame shadow mdsz w-[400px] mx-auto lg:hover:scale-110 transition duration-300 ease-in-out"
 				alt="angelina"
 			/>
@@ -44,83 +44,83 @@
 	<h1 style="padding: 2em 0 1em 0" class="size-xl title">Family Members</h1>
 	<div class="members">
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/andrew_lau.jpg" alt="" />
+			<img src="../fam/sheetsmembers/andrew_lau.jpg" alt="" />
 			<p>Andrew Lau</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/megan_nguyen.jpg" alt="" />
+			<img src="../fam/sheetsmembers/megan_nguyen.jpg" alt="" />
 			<p>Megan Nguyen</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/brandon_la.jpg" alt="" />
+			<img src="../fam/sheetsmembers/brandon_la.jpg" alt="" />
 			<p>Brandon La</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/jordan_letu.jpg" alt="" />
+			<img src="../fam/sheetsmembers/jordan_letu.jpg" alt="" />
 			<p>Jordan Letu</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/isabelle_barajas.jpg" alt="" />
+			<img src="../fam/sheetsmembers/isabelle_barajas.jpg" alt="" />
 			<p>Isabelle Barajas</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/vincent_ta.jpg" alt="" />
+			<img src="../fam/sheetsmembers/vincent_ta.jpg" alt="" />
 			<p>Vincent Ta</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/andrea_reyes.jpg" alt="" />
+			<img src="../fam/sheetsmembers/andrea_reyes.jpg" alt="" />
 			<p>Andrea Reyes</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/joshua_de_leon.jpg" alt="" />
+			<img src="../fam/sheetsmembers/joshua_de_leon.jpg" alt="" />
 			<p>Joshua De Leon</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/beverly_nguyen.jpg" alt="" />
+			<img src="../fam/sheetsmembers/beverly_nguyen.jpg" alt="" />
 			<p>Beverly Nguyen</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/brian_zee.jpg" alt="" />
+			<img src="../fam/sheetsmembers/brian_zee.jpg" alt="" />
 			<p>Brian Zee</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/diana_torres.jpg" alt="" />
+			<img src="../fam/sheetsmembers/diana_torres.jpg" alt="" />
 			<p>Diana Torres</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/daniel_lim.jpg" alt="" />
+			<img src="../fam/sheetsmembers/daniel_lim.jpg" alt="" />
 			<p>Daniel Lim</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../src/lib/images/BlankOutline.jpg" alt="" />
+			<img src="../BlankOutline.jpg" alt="" />
 			<p>Arnold Cudia</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../src/lib/images/BlankOutline.jpg" alt="" />
+			<img src="../BlankOutline.jpg" alt="" />
 			<p>Adrie Stewert-Twiggs</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/kim_nguyen.jpg" alt="" />
+			<img src="../fam/sheetsmembers/kim_nguyen.jpg" alt="" />
 			<p>Kim Nguyen</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/eric_chiu.jpg" alt="" />
+			<img src="../fam/sheetsmembers/eric_chiu.jpg" alt="" />
 			<p>Eric Chiu</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/mikayla_reilly.jpg" alt="" />
+			<img src="../fam/sheetsmembers/mikayla_reilly.jpg" alt="" />
 			<p>Mikayla Reilly</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/kaela_ngo.jpg" alt="" />
+			<img src="../fam/sheetsmembers/kaela_ngo.jpg" alt="" />
 			<p>Kaela Ngo</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/trevor_mcbrayer.jpg" alt="" />
+			<img src="../fam/sheetsmembers/trevor_mcbrayer.jpg" alt="" />
 			<p>Trevor McBrayer</p>
 		</div>
 		<div class="lg:hover:scale-110 transition duration-300 ease-in-out">
-			<img src="../../src/lib/images/fam/sheetsmembers/bryan_ly.jpg" alt="" />
+			<img src="../fam/sheetsmembers/bryan_ly.jpg" alt="" />
 			<p>Bryan Ly</p>
 		</div>
 	</div>
